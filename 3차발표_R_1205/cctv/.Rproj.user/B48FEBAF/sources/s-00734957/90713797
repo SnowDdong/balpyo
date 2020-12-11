@@ -1,0 +1,32 @@
+{
+    "id": "90713797",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607062707237.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "cctv2",
+        "caption": "cctv2",
+        "totalObservations": "25",
+        "displayedObservations": "25",
+        "variables": "7",
+        "cacheKey": "E714514A",
+        "object": "cctv2",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=cctv2&cache_key=E714514A&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3544388020367002158,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607062707237,
+    "read_only": false,
+    "read_only_alternatives": []
+}

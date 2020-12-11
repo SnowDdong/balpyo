@@ -1,0 +1,32 @@
+{
+    "id": "9E9ACC81",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607046805524.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "accident",
+        "caption": "accident",
+        "totalObservations": 16,
+        "displayedObservations": 16,
+        "variables": 15,
+        "cacheKey": "E47FBDBC",
+        "object": "accident",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=accident&cache_key=E47FBDBC&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2179424621576,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607046805524,
+    "read_only": false,
+    "read_only_alternatives": []
+}
